@@ -1,0 +1,7 @@
+http://www.support.code-red-tech.com/CodeRedWiki/redlib_v2_notes
+
+http://support.code-red-tech.com/CodeRedWiki/UartPrintf
+
+https://sourceware.org/newlib/libc.html#Syscalls
+
+http://www.lpcware.com/content/faq/lpcxpresso/using-printf
